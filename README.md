@@ -1,4 +1,6 @@
 # Digital-Image-Processing
+### Tool 
+  Matlab
 ### 1.1_imageBasic
 - Image Read
 - Image Show
@@ -12,3 +14,11 @@
 
 ### 1.3_formatConversion
 - Image conversion from one format to another
+
+### 1.5_resizingImage
+- Resize the original image
+- No of rows and columns is changed in half
+
+### P0_listOfImage
+ - Image list
+ - Image is read from directory
