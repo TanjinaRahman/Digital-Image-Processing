@@ -1,0 +1,10 @@
+clear all; 
+Img = imread('peppers.png'); 
+Img = rgb2gray(Img);
+I = 32*round(Img/32);
+subplot(2,1,1);
+imshow(Img);
+title('256 Level Gray Image');
+subplot(2,1,2);
+imshow(I);
+title('8 Level Gray Image');
