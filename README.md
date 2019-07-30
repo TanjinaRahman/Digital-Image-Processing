@@ -22,5 +22,6 @@
 ### P0_listOfImage
  - Image list
  - Image is read from directory
+ 
 ### Image Interpolation
- - Nearest Neighbor Interpolation using Tools
+ - Nearest Neighbor Interpolation Using Tools
