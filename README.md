@@ -24,4 +24,5 @@
  - Image is read from directory
  
 ### Image Interpolation
- - Nearest Neighbor Interpolation Using Tools
+ - Nearest Neighbor Interpolation(Using Tools)
+ - Nearest Neighbor Interpolation(Raw)
