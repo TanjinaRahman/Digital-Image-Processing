@@ -27,3 +27,4 @@
  - Nearest Neighbor Interpolation(Using Tools)
  - Nearest Neighbor Interpolation(Raw)
  - Bilinear Interpolation(Tools)
+ - Bicubic Interpolation(Tools)
