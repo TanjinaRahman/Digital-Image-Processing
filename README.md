@@ -26,3 +26,4 @@
 ### Image Interpolation
  - Nearest Neighbor Interpolation(Using Tools)
  - Nearest Neighbor Interpolation(Raw)
+ - Bilinear Interpolation(Tools)
