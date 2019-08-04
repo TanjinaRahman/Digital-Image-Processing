@@ -32,3 +32,9 @@
 ### Logical Operation
 - AND Operation (Using Tools)
 - AND Operation (Raw)
+- OR Operation (Using Tools)
+- OR Operation (Raw)
+- NOT Operation (Using Tools)
+- NOT Operation (Raw)
+- XOR Operation (Using Tools)
+- XOR Operation (Raw)
