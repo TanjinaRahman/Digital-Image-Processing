@@ -41,4 +41,5 @@
 
 - Negative Image (Raw)
 - Negative Image (Using Tools)
+- Image Histogram (Using Tools)
 
