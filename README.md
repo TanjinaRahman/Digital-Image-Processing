@@ -38,3 +38,7 @@
 - NOT Operation (Raw)
 - XOR Operation (Using Tools)
 - XOR Operation (Raw)
+
+- Negative Image (Raw)
+- Negative Image (Using Tools)
+
