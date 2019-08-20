@@ -43,3 +43,5 @@
 - Negative Image (Using Tools)
 - Image Histogram (Using Tools)
 - Image Histogram (Raw)
+- Log Transformation
+- Log Transformation (function)
