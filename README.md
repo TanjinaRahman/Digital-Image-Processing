@@ -45,3 +45,6 @@
 - Image Histogram (Raw)
 - Log Transformation
 - Log Transformation (function)
+- Power Law Transformation
+- Contrast Stretching
+- Thresholding Function
