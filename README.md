@@ -48,3 +48,4 @@
 - Power Law Transformation
 - Contrast Stretching
 - Thresholding Function
+- Histogram Processing
