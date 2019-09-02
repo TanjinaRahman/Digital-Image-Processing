@@ -48,6 +48,8 @@
 - Power Law Transformation
 - Contrast Stretching
 - Thresholding Function
+- Intensity level slicing
+- Bit plane slicing
 - Histogram Processing
 - Histogram Equalization
 - Histogram Matching
