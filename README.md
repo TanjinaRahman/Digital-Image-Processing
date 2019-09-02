@@ -49,3 +49,9 @@
 - Contrast Stretching
 - Thresholding Function
 - Histogram Processing
+- Histogram Equalization
+- Histogram Matching
+- Convolution
+- Correlation
+- Low Pass Filter
+- Laplacian
