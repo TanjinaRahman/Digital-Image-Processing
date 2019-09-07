@@ -57,3 +57,6 @@
 - Correlation
 - Low Pass Filter
 - Laplacian
+- Highboost Filtering
+- Gussian Filtering
+- Weighted avg Filtering
