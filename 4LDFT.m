@@ -29,6 +29,5 @@ for u = 1:r
     end
 end
 
-
 subplot(1,2,2),imshow(uint8(F1));
 title('Inverse Transformed Image');
